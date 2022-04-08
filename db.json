@@ -1,0 +1,286 @@
+{
+  "posts": [
+       {
+    "name": "Aachari",
+    "price": 455,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 1,
+   "votes": 485,
+    "reviews": 715,
+    "image":
+      "https://images.unsplash.com/photo-1590194360930-4866613967b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=834&q=80"
+  },
+  {
+    "name": "Hotel kasturi",
+    "price": 451,
+   "cash": false,
+   "online": true,
+   "payment": "online",
+    "rating": 4.5,
+   "votes": 854,
+    "reviews": 365,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zifpyuxielezwhcpmeb2"
+  },
+  {
+    "name": "Sukh Sagar",
+    "price": 235,
+   "cash": true,
+   "payment": "cash",
+   "online": false,
+    "rating": 5,
+   "votes": 748,
+    "reviews": 988,
+   "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qyzsqdwaloz1ys56w7zj"
+  },
+  {
+    "name": "Niteen's Canteen",
+    "price": 300,
+   "cash": false,
+   "payment": "online",
+   "online": true,
+    "rating": 4.5,
+   "votes": 651,
+    "reviews": 55,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ngfwe4kzvwxsprx2fujl"
+  },
+
+  {
+    "name": "Hotel Gokul",
+    "price": 400,
+   "payment": "Both",
+   "both": true,
+    "rating": 2.3,
+   "votes": 665,
+    "reviews": 211,
+   "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/olhiivjousezpnhixsmg"
+  },
+  {
+    "name": "Manisha Caffe",
+    "price": 510,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 3.7,
+   "votes": 561,
+    "reviews": 21,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/l8kgrfvsvnrun06luxkb"
+  },
+  {
+    "name": "Sindh Punjabi Tadka",
+    "price": 222,
+   "payment": "online",
+   "cash": false,
+   "online": true,
+    "rating": 4.1,
+   "votes": 651,
+    "reviews": 22,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/falimkuwv1t07tlsrts7"
+  },
+  {
+    "name": "Thali Wala (Pure Veg)",
+    "price": 66,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 3.7,
+   "votes": 445,
+    "reviews": 325,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/b1yokjip6gch9oiyq5pb"
+  },
+  {
+    "name": "Samarth Restaurant",
+    "price": 132,
+   "payment": "online",
+   "cash": false,
+   "online": true,
+    "rating": 2.9,
+   "votes": 64,
+    "reviews": 112,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nvhzw8ofd8xo6c7ldb7k"
+  },
+
+  {
+    "name": "Hotel Kolhapuri",
+    "price": 111,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 4.9,
+   "votes": 963,
+    "reviews": 375,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/uw9dnvx0gxg2v86dwvgv"
+  },
+  {
+    "name": "Rayjeera",
+    "price": 375,
+   "payment": "online",
+   "cash": false,
+   "online": true,
+    "rating": 5.0,
+   "votes": 396,
+    "reviews": 444,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ehgiq2iofxftay8wd5v8"
+  },
+  {
+    "name": "Hotel Punjabi",
+    "price": 444,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 2.9,
+   "votes": 131,
+    "reviews": 321,
+    "image":
+      "https://images.unsplash.com/photo-1590194360930-4866613967b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=834&q=80"
+  },
+  {
+    "name": "Yuvi's Rasoi Thali",
+    "price": 321,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 4.5,
+   "votes": 123,
+    "reviews": 456,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oxh7ekt3unq1zuleumnh"
+  },
+  {
+    "name": "Navratri Meals",
+    "price": 654,
+   "payment": "Both",
+    "both": true,
+    "rating": 3.1,
+   "votes": 987,
+    "reviews": 789,
+   "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/su3q3pwzz3we7yr4wsc8"
+  },
+  {
+    "name": "Baba ka Dhaba",
+    "price": 741,
+   "payment": "Both",
+   "both": true,
+    "rating": 4.1,
+   "votes": 147,
+    "reviews": 625,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fge5zoqmmaapoxayclco"
+  },
+  {
+    "name": "Dada ka Dhaba",
+    "price": 365,
+   "payment": "Both",
+    "both": true,
+    "rating": 3.7,
+   "votes": 134,
+    "reviews": 431,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izroky1so1kt4g2lygth"
+  },
+  {
+    "name": "Yuvi's Rasoi",
+    "price": 165,
+   "payment": "Both",
+    "both": true,
+    "rating": 5.0,
+   "votes": 564,
+    "reviews": 235,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kyqleymqfliyjq5izwma"
+  },
+  {
+    "name": "Bhuvan's Kitchen",
+    "price": 200,
+   "payment": "Both",
+    "both": true,
+    "rating": 4.8,
+   "votes": 65,
+    "reviews": 338,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wu60rsyx7of7a7t0kiqh"
+  },
+  {
+    "name": "Nana Hotel",
+    "price": 338,
+   "payment": "Both",
+    "both": true,
+    "rating": 3.8,
+   "votes": 883,
+    "reviews": 755,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dpebsdvi3dlw46x7r4ul"
+  },
+  {
+    "name": "Chandak Restaurant",
+    "price": 456,
+   "payment": "online",
+   "cash": false,
+   "online": true,
+    "rating": 1.9,
+   "votes": 51,
+    "reviews": 351,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wujleqabmwdxy4hkishv"
+  },
+  {
+    "name": "Murli Hotel",
+    "price": 854,
+   "payment": "Both",
+    "both": true,
+    "rating": 2.5,
+   "votes": 841,
+    "reviews": 511,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/z5ruisz8akimcovbwdrj"
+  },
+  {
+    "name": "Old Vine Restaurant",
+    "price": 311,
+   "payment": "online",
+   "cash": false,
+   "online": true,
+    "rating": 4.9,
+   "votes": 615,
+    "reviews": 342,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wujleqabmwdxy4hkishv"
+  },
+  {
+    "name": "Firangi Dhaba",
+    "price": 324,
+   "payment": "Both",
+    "both": true,
+    "rating": 1.6,
+   "votes": 614,
+    "reviews": 111,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fdewjlasp5rozltrsgw2"
+  },
+  {
+    "name": "Manora Hotel",
+    "price": 111,
+   "payment": "cash",
+   "cash": true,
+   "online": false,
+    "rating": 1.5,
+   "votes": 854,
+    "reviews": 224,
+    "image":
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/MMBH/firangi-bake-"
+  }
+  ]
+   
+}

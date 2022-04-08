@@ -1,0 +1,135 @@
+* {
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+
+}
+
+
+.rest_container_div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    padding: 1rem;
+    background: transparent;
+}
+
+.item_first_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 50px grey;
+    height: 220px;
+
+
+}
+
+.item_first_div div {
+    margin: 0.2rem;
+}
+
+.item_img img {
+    width: 180px;
+    height: 200px;
+
+    border-radius: 0.5rem;
+
+}
+
+.item_details p:first-child {
+    color: brown;
+    font-size: 1.5rem;
+    font-weight: 800;
+
+}
+
+.item_details p:nth-child(2) {
+    color: grey;
+    font-weight: bold;
+
+}
+
+.item_details p:nth-child(3) {
+
+    font-weight: bold;
+
+}
+
+.item_review p:first-child {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 0.1rem;
+    border-radius: 5px
+}
+
+.item_review p:nth-child(2),
+p:nth-child(3) {
+    color: grey;
+    font-weight: bold;
+
+}
+
+.item_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links button {
+    
+    margin: 0.5rem 1rem;
+    font-size: 1.2rem;
+    padding: 0.2rem;
+   
+}
+
+.links1 button {
+    
+    margin: 0.5rem 1rem;
+    font-size: 1.2rem;
+    padding: 0.2rem;
+   
+}
+
+.links button:hover {
+    background-color:blue;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    font-weight: bold;
+    cursor: pointer;
+}
+.links1 button:hover {
+    background-color:blue;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: 100%;
+    margin-top: 7%;
+
+
+}
+
+
+.links1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: 100%;
+   
+
+
+}
